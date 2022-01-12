@@ -1,0 +1,42 @@
+body{
+    background-color: #919bbe;
+    letter-spacing: 0.2em;
+    font-size: 0.8em;
+    font-family: 'Open Sans', sans-serif;
+}
+.card{
+    background-color: rgb(235, 235, 235);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.container{
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.icon{
+    position: relative;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    top: -50px;
+    background-color: rgb(235, 235, 235);
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    margin-bottom: -40px;
+}
+
+.form-control{
+    background:rgba(172, 172, 172, 0.568);
+    border: none;
+    box-shadow: 0 0 1px rgba(0,0,0,0.5);
+}
+
+.time{
+    border-radius: 1.0%;
+    width: auto;
+    height: auto;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
