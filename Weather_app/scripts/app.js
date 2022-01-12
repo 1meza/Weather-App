@@ -5,8 +5,6 @@ const time = document.querySelector('img.time');
 const icon = document.querySelector('.icon img');
 const forecast = new Forecast();
 
-console.log(forecast);
-
 const updateUI = (data) => {
     const { cityDetails, weather } = data;
     // update details template
